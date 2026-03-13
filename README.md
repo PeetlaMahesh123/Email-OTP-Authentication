@@ -10,6 +10,25 @@ The user must enter the OTP within a specific time limit to gain access to the a
 This project demonstrates **secure authentication workflows, email integration, and database operations** in a Spring Boot application.
 
 ---
+## 📸 Application Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bfae9f59-d559-4fcb-94c4-b6487f4492f2" width="320" height="240"/>
+   <img src="https://github.com/user-attachments/assets/9d386841-190c-419d-bf16-29871a293079" width="320" height="240"/>
+ 
+</p>
+
+<p align="center">
+    
+  <img src="https://github.com/user-attachments/assets/fa6cd3ba-b7b4-43d2-b325-58e4fc570fd2" width="320" height="240"/>
+  <img src="https://github.com/user-attachments/assets/1403e0ae-19b3-41a5-8617-3aa7e70d0e5b" width="320" height="240"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/06e436ff-d2d7-44f7-8b29-ae325b7171c5" width="320" height="240"/>
+</p>
+
+---
 
 ## 🚀 Features
 
@@ -136,25 +155,6 @@ http://localhost:9090
 * Login Page
 * OTP Verification Page
 * Homepage
-
----
-## 📸 Application Screenshots
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bfae9f59-d559-4fcb-94c4-b6487f4492f2" width="320" height="240"/>
-   <img src="https://github.com/user-attachments/assets/9d386841-190c-419d-bf16-29871a293079" width="320" height="240"/>
- 
-</p>
-
-<p align="center">
-    
-  <img src="https://github.com/user-attachments/assets/fa6cd3ba-b7b4-43d2-b325-58e4fc570fd2" width="320" height="240"/>
-  <img src="https://github.com/user-attachments/assets/1403e0ae-19b3-41a5-8617-3aa7e70d0e5b" width="320" height="240"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/06e436ff-d2d7-44f7-8b29-ae325b7171c5" width="320" height="240"/>
-</p>
 
 ---
 
