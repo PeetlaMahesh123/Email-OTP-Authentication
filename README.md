@@ -82,6 +82,7 @@ src
 
 ## ⚙️ Application Workflow
 
+---
 1️⃣ User opens the application.
 2️⃣ User registers with name, phone, email, and password.
 3️⃣ User logs in using email and password.
@@ -95,6 +96,7 @@ src
 
 ## ⚡ Configuration
 
+---
 Update `application.properties` with your database and email credentials:
 
 spring.datasource.url=jdbc:mysql://localhost:3306/springotpdb
