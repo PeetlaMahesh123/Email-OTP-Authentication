@@ -136,6 +136,7 @@ http://localhost:9090
 * Login Page
 * OTP Verification Page
 * Homepage
+<img width="861" height="556" alt="image" src="https://github.com/user-attachments/assets/1403e0ae-19b3-41a5-8617-3aa7e70d0e5b" />
 
 ---
 
