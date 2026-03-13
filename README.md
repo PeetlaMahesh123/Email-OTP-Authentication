@@ -48,27 +48,35 @@ This project demonstrates **secure authentication workflows, email integration, 
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
+```
 src
 ├── controllers
-│      └── UserController.java
+│   └── UserController.java
+│
 ├── entities
-│      ├── User.java
-│      └── UserOtp.java
+│   ├── User.java
+│   └── UserOtp.java
+│
 ├── repositories
-│      ├── UserRepository.java
-│      └── UserOTPRepository.java
+│   ├── UserRepository.java
+│   └── UserOTPRepository.java
+│
 ├── services
-│      └── UserService.java
-└── resources
-├── templates
-│      ├── index.html
-│      ├── login.html
-│      ├── otp.html
-│      ├── homepage.html
-│      └── loginFail.html
+│   └── UserService.java
+│
+├── resources
+│   └── templates
+│       ├── index.html
+│       ├── login.html
+│       ├── otp.html
+│       ├── homepage.html
+│       └── loginFail.html
+│
 └── application.properties
+```
+
 
 ---
 
@@ -102,7 +110,7 @@ spring.mail.password=YOUR_APP_PASSWORD
 
 1. Clone the repository
 
-git clone https://github.com/your-username/springboot-email-otp-authentication.git
+git clone https://github.com/PeetlaMahesh123/Email-OTP-Authentication.git
 
 2. Open the project in your IDE
 
@@ -116,7 +124,7 @@ CREATE DATABASE springotpdb;
 
 5. Open the browser
 
-http://localhost:9091
+http://localhost:9090
 
 ---
 
