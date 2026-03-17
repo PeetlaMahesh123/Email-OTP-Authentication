@@ -1,4 +1,4 @@
-# 🔐 Spring Boot Email OTP Authentication System
+
 
 ## 📌 Project Overview
 
