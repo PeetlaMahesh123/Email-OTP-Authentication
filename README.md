@@ -1,4 +1,4 @@
-
+## Email-OTP Authentication Project
 
 ## 📌 Project Overview
 
