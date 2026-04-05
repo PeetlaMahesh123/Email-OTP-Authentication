@@ -4,7 +4,9 @@
 This project is a secure **Email OTP Authentication Login System** developed using **Spring Boot** and **MySQL**.
 It allows users to register with their details and log in using email and password. After successful credential verification, a **One-Time Password (OTP)** is sent to the user's registered email address for additional security.
 
+The user must enter the OTP within a specific time limit to gain access to the application.
 
+This project demonstrates **secure authentication workflows, email integration, and database operations** in a Spring Boot application.
 
 
 ---
