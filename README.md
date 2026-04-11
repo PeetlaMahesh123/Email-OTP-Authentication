@@ -32,14 +32,6 @@ This project demonstrates **secure authentication workflows, email integration, 
 
 ## 🚀 Features
 
-* User Registration System
-* Secure Login using Email and Password
-* OTP Generation during Login
-* OTP Sent to Registered Email
-* OTP Expiration Validation
-* OTP Verification before Login Success
-* MySQL Database Integration
-* Simple and Interactive User Interface
 
 ---
 
