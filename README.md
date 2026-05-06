@@ -2,7 +2,7 @@
 
 
 
-The user must enter the OTP within a specific time limit to gain access to the application.
+
 
 This project demonstrates **secure authentication workflows, email integration, and database operations** in a Spring Boot application.
 
