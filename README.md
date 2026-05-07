@@ -8,7 +8,7 @@ This project demonstrates **secure authentication workflows, email integration, 
 
 
 ---
-## 📸 Application Screenshots
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bfae9f59-d559-4fcb-94c4-b6487f4492f2" width="320" height="240"/>
    <img src="https://github.com/user-attachments/assets/9d386841-190c-419d-bf16-29871a293079" width="320" height="240"/>
